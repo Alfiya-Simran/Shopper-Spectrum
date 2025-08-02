@@ -89,7 +89,7 @@ scikit-learn
 > ### 🔹 Home Page
 ![Home Page](Home.png)
 
-> ## 🔹 Clustering Feature
+> ### 🔹 Clustering Feature
 ![Clustering Feature](Clustering.png)
 
 > ### 🔹 Product Recommendation
