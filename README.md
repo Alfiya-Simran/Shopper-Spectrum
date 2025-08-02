@@ -88,13 +88,13 @@ scikit-learn
 ## 📸 Screenshots
 
 > ### 🔹 Home Page
-![Home Page](Home.png)
+![Home Page](snapshots/Home.png)
 
 > ### 🔹 Clustering Feature
-![Clustering Feature](Clustering.png)
+![Clustering Feature](snapshots/Clustering.png)
 
 > ### 🔹 Product Recommendation
-![Product Recommendation](Recommendation.png)
+![Product Recommendation](snapshots/Recommendation.png)
 
 ---
 
