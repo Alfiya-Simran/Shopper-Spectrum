@@ -28,8 +28,13 @@
 
 ```
 📦 Shopper-Spectrum/
+├── snapshots/
+│   ├── Home.png
+│   ├── Clustering.png
+│   └── Recommendation.png
 ├── Online_retail.csv
 ├── final_app.py
+├── product_similarity.pkl
 ├── rfm_clustering_model.pkl
 ├── rfm_scaler.pkl
 ├── requirements.txt
