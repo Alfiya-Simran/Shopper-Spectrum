@@ -86,7 +86,14 @@ scikit-learn
 
 ## 📸 Screenshots
 
-> *(Add your app screenshots here if available)*
+> ### 🔹 Home Page
+![Home Page](Home.png)
+
+> ## 🔹 Clustering Feature
+![Clustering Feature](Clustering.png)
+
+> ### 🔹 Product Recommendation
+![Product Recommendation](Recommendation.png)
 
 ---
 
@@ -99,5 +106,5 @@ scikit-learn
 ## 📬 Contact
 
 **Alfiya Simran**  
-📧 [Your Email]  
-🔗 [LinkedIn/GitHub profile links]
+📧 alfiyasimran05@gmail.com  
+🔗 www.linkedin.com/in/alfiyasimran
