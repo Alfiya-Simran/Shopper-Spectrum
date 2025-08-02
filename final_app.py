@@ -2,6 +2,12 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
+import gdown
+import os
+os.system("pip install gdown")
+if not os.path.exists("product_similarity.pkl"):
+    file_id = "1pgxsaz9w2Tv9z5M14Pqc3KEH6Ezid81z" 
+    gdown.download(f"https://drive.google.com/uc?id={file_id}", "product_similarity.pkl", quiet=False)
 with open("rfm_clustering_model.pkl", "rb") as f:
     clustering_model = pickle.load(f)
 with open("rfm_scaler.pkl", "rb") as f:
