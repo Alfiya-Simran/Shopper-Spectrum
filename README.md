@@ -42,7 +42,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/shopper-spectrum.git
+git clone https://github.com/Alfiya-Simran/shopper-spectrum.git
 cd shopper-spectrum
 ```
 
